@@ -3,7 +3,7 @@ version: 2
 aliases:
   - &defaults
     docker:
-      - image: circleci/ruby:2.6.0-stretch-node
+      - image: circleci/ruby:2.6.3-stretch-node
         environment: &ruby_environment
           BUNDLE_APP_CONFIG: ./.bundle/
           DB_HOST: localhost
@@ -131,7 +131,7 @@ jobs:
   test-ruby2.6:
     <<: *defaults
     docker:
-      - image: circleci/ruby:2.6.0-stretch-node
+      - image: circleci/ruby:2.6.3-stretch-node
         environment: *ruby_environment
       - image: circleci/postgres:10.6-alpine
         environment:
