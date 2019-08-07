@@ -1014,6 +1014,10 @@ en:
     contrast: Mastodon (High contrast)
     default: Mastodon (Dark)
     mastodon-light: Mastodon (Light)
+    weirder-sea: Weirder Sea
+    weirder-sky: Weirder Sky
+    weirder-galaxy: Weirder Galaxy
+    weirder-forest: Weirder Forest
   time:
     formats:
       default: "%b %d, %Y, %H:%M"
