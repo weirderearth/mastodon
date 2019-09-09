@@ -1,3 +1,7 @@
 default: styles/application.scss
 contrast: styles/contrast.scss
 mastodon-light: styles/mastodon-light.scss
+weirder-sea: styles/sea.scss
+weirder-sky: styles/sky.scss
+weirder-galaxy: styles/galaxy.scss
+weirder-forest: styles/forest.scss
