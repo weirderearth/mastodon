@@ -1038,9 +1038,9 @@ en:
   themes:
     contrast: Mastodon (High contrast)
     default: Mastodon (Dark)
-    mastodon-light: Mastodon (Light)
     forest: Weirder Forest
     galaxy: Weirder Galaxy (High contrast)
+    mastodon-light: Mastodon (Light)
     sea: Weirder Sea
     sky: Weirder Sky
   time:

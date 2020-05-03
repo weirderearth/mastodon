@@ -1,7 +1,7 @@
 default: styles/application.scss
 contrast: styles/contrast.scss
-mastodon-light: styles/mastodon-light.scss
 forest: styles/forest.scss
 galaxy: styles/galaxy.scss
+mastodon-light: styles/mastodon-light.scss
 sea: styles/sea.scss
 sky: styles/sky.scss
