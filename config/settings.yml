@@ -2,7 +2,7 @@
 # important settings can be changed from the admin interface.
 
 defaults: &defaults
-  site_title: Mastodon
+  site_title: Hometown
   site_short_description: ''
   site_description: ''
   site_extended_description: ''
@@ -17,6 +17,7 @@ defaults: &defaults
   timeline_preview: true
   show_staff_badge: true
   default_sensitive: false
+  default_federation: true
   hide_network: false
   unfollow_modal: false
   boost_modal: false
